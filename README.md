@@ -16,8 +16,11 @@ To start a new game, click the "Again!" button, which resets your score and gene
 ## Code Breakdown
 
 ** secretNumber: Random number between 1 and 20 generated at the start and after each game reset.
+
 ** score: Initial score set to 20, decreases with each incorrect guess.
+
 ** highScore: Tracks the highest score achieved during the session.
+
 displayMessage function: Updates the message displayed on the page based on the game's current state.
 
 ## Event Listeners
